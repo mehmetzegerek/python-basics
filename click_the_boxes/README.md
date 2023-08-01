@@ -5,6 +5,8 @@ The image that appears when the application is first opened is as follows.
 ![Alt text](app_images/image.png)
 
 When the user presses the start button, the correct boxes identified by the computer appear instantly and have the same appearance as the other boxes.
+
+
 ![Alt text](app_images/image2.png)
 ![Alt text](app_images/image3.png)
 
